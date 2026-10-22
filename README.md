@@ -50,9 +50,9 @@ Confusion matrix (tuned): 56,641 TN · 10 FP · 23 FN · 72 TP
 
 ### Charts
 
-![Class imbalance](images/class_imbalance.png)
-![Confusion matrix](images/confusion_matrix.png)
-![Model comparison](images/model_comparison.png)
+![Class Imbalance in Dataset](Images/Class Imbalance in Dataset.png)
+![Confusion Matrix](Images/Confusion Matrix.png)
+![Model Comparison](Images/Model Comparison.png)
 
 ## 💡 Key Insights
 
