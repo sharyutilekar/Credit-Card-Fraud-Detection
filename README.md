@@ -50,9 +50,11 @@ Confusion matrix (tuned): 56,641 TN · 10 FP · 23 FN · 72 TP
 
 ### Charts
 
-![Class Imbalance in Dataset](Images/Class Imbalance in Dataset.png)
-![Confusion Matrix](Images/Confusion Matrix.png)
-![Model Comparison](Images/Model Comparison.png)
+![Class Imbalance in Dataset](Images/Class%20Imbalance%20in%20Dataset.png)
+
+![Confusion Matrix](Images/Confusion%20Matrix.png)
+
+![Model Comparison](Images/Model%20Comaprison.png)
 
 ## 💡 Key Insights
 
@@ -65,8 +67,8 @@ Confusion matrix (tuned): 56,641 TN · 10 FP · 23 FN · 72 TP
 
 ```
 credit-card-fraud-detection/
-├── credit_card_fraud_detection.ipynb   # full analysis & modelling
-├── images/                             # charts used in this README
+├── credit_card_fraud_detection.ipynb   
+├── images/                             
 ├── requirements.txt
 ├── .gitignore
 └── README.md
