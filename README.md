@@ -66,10 +66,15 @@ Confusion matrix (tuned): 56,641 TN · 10 FP · 23 FN · 72 TP
 ## 🗂️ Project Structure
 
 Credit-Card-Fraud-Detection/
+
 ├── Images/                                # charts used in this README
+
 ├── .gitignore
+
 ├── Credit_Card_Fraud_Detection.ipynb      # full analysis & modelling
+
 ├── README.md
+
 └── Requirements.txt
 
 
