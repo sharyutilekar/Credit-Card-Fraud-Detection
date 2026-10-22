@@ -5,12 +5,3 @@ creditcard.csv
 # Jupyter
 .ipynb_checkpoints/
 
-# Python
-__pycache__/
-*.pyc
-.venv/
-env/
-
-# OS / editor
-.DS_Store
-.vscode/
