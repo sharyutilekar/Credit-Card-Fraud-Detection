@@ -54,7 +54,7 @@ Confusion matrix (tuned): 56,641 TN · 10 FP · 23 FN · 72 TP
 
 ![Confusion Matrix](Images/Confusion%20Matrix.png)
 
-![Model Comparison](Images/Model%20Comaprison.png)
+![Model Comparison](Images/Model%20Comparison.png)
 
 ## 💡 Key Insights
 
