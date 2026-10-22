@@ -1,0 +1,16 @@
+# Dataset (too large for GitHub - download from Kaggle)
+creditcard.csv
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
