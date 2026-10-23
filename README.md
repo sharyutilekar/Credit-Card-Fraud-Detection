@@ -102,4 +102,4 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 
 ## 👤 Author
 
-**Your Name** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your@email.com)
+Sharyu Tilekar ·
